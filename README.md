@@ -264,6 +264,6 @@ Class is going… too slow / just right / too fast.
 
 ### 29. Jobs
 
-Add a link to one web development job based in NYC:
+Add a link to one web development job based in NYC: https://jobs.lever.co/nymedia/4a4b4bf0-5e69-4596-a26c-40e75c34a578?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 
-What do you still need to learn to meet the requirements?
+What do you still need to learn to meet the requirements? I must learn more about backend APIs.
