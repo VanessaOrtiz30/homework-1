@@ -166,71 +166,69 @@ Preferable I like to use W3Schools but then I found out about MDN.
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
-HTML5.
+HTML5. The DOCTYPE tag <!DOCTYPE html>
 
-What is XML?
+What is XML? XML is Extensible markup language 
 
-What is XHTML?
+What is XHTML? XHTML is Extensible Hypertext Markup Language
 
 
 ### 15. HTML
 
-Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program? Web pages ASCII are (plain text) files.
 
-Are HTML files interpreted or executed?
+Are HTML files interpreted or executed? HTML files are interepreted.
 
 
 ### 16. Browser versioning
 
-Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Which versions of Microsoft Internet Explorer support the `<nav>` tag? All versions of Internet explorer above version 9 and above support this tag.
 
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML?
+What is one tool that can tell you if you have written valid HTML? You can base off your html code via W3 school validation standards. Others include Validator S.A.C
 
 
 ### 18. Accessibility
 
-What does "Accessibility" mean in the context of web development?
+What does "Accessibility" mean in the context of web development? In the context of web developement accessibility means to make the site available to all people including those with disabilities as well.
 
-What types of people does accessibility concern?
+What types of people does accessibility concern? Those with disabilities.
 
-What is one tool you can use to verify the accessibility of your websites?
+What is one tool you can use to verify the accessibility of your websites? There exists a site called Web Accessibility and another called Wave that allow you to test if your website verifies for accessibility.
 
 
 ### 19. head / body
 
-What is the `<head>` tag for?
+What is the `<head>` tag for? The head tag is for other tags like the meta tag, title, link and scripts.
 
-What is the `<body>` tag for?
+What is the `<body>` tag for? The body tag is used for any and all elements like lists, paragraph tags, 'a' tags, tables etc..
 
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags?
-
+What's the difference between `<head>`, `<header>`, and heading tags? The head tag provides items like the title, links and things like metadata. Header is mostly used for information about the page like author, logo(s) etc.
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? These are all of the items used in order to make a basic table.
 
 
 ### 22. Non-closing tags
 
-Which tags don't have a closing pair (e.g. `<br>`)?
-
+Which tags don't have a closing pair (e.g. `<br>`)? Aside form the <br> tag their also exists the <img>, <col>, <input> tags and many more.
 
 ### 23. Links
 
-How do you make a link open in a new window?
+How do you make a link open in a new window? To make a link open in a new tag you must use target="_blank" in your 'a' tag.
 
 
 ### 24. IFRAME
 
-What is an IFRAME?
+What is an IFRAME? An IFRAME is an "inline frame" that allows for an "external webpage" to also be "embedded" into your document.
 
-What are IFRAMEs commonly used for?
+What are IFRAMEs commonly used for? Like I previously mentioned IFRAME is commonly used for an "external webpage" to also be "embedded" into your document.
 
 
 ## Writing Code
