@@ -96,39 +96,39 @@ Please edit this file to add your answers to the following questions.
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? localhost:4000
+* What is the port number? 80
+* What is the path? /admin
+* What are the query parameters? There are none
+* What is the fragment? none (no #)
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? lehman.edu
+* What is the port number? 80
+* What is the path? /academics/mathematics-computer-science/index.php
+* What are the query parameters? none
+* What is the fragment? none
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? 443
+* What is the port number? en.wikipedia.org
+* What is the path? /wiki/Greek_alphabet
+* What are the query parameters? none
+* What is the fragment? #Glyph_variants
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? The S stands for the word Secure.
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? The reason HTTPS is better than the HTTP is because it provides another "layer" of protection.
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? It is highly suggested they all do because it adds more security.
 
 
 ## Webpages
@@ -141,27 +141,32 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+*A webpage is just a portion of a full website. You can simply think of it as a page in a full site that you may visit.*
 
 
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
+https://disneynow.go.com/all-shows/disney-channel
+I like it because it reminds me of my childhood (sorry I couldn't find a site with an "index.html" path/route)
 
 
 ### 12. Website I don’t like
 
 What's one webpage you like? Why?
-
+https://disneynow.go.com/all-shows/disney-channel
+I also don't like it because it reminds me of my childhood and how old I am (sorry I couldn't find a site with an "index.html" path/route)
 
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
+Preferable I like to use W3Schools but then I found out about MDN.
 
 
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+HTML5.
 
 What is XML?
 
